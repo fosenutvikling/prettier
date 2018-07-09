@@ -1,4 +1,4 @@
-export default {
+module.exports =  {
   parser: "typescript",
   printWidth: 100,
   tabWidth: 4,
